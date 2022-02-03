@@ -1,4 +1,4 @@
-## Check Website Connectivity
+## Check height of all pairs of players
 This directory contains a simple application  to  takes a single integer input and print a list of all pairs of players
 whose height in inches adds up to the integer input to the application
 
