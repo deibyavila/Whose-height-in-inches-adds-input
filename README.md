@@ -25,3 +25,10 @@ python player_heights.py
 ```
 
 If you have an account in Colaboratory, you can copy and paste the content file and run the aplication.
+
+
+## Whit Comprenhension
+
+```
+python player_heights2.py
+```
